@@ -1,0 +1,5 @@
+hitbox za krog laho gledas tko, da je poz mouseX/mouseY in pozicija sredisca kroga
+manjsa od polmera kroga.
+
+npr. polmer = 50
+mouseX in mouseY morata biti med -50 od sredisca kroga, do 50 od sredisca kroga. 
